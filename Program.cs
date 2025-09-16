@@ -1,0 +1,40 @@
+﻿Console.BackgroundColor = ConsoleColor.DarkMagenta;
+Console.ForegroundColor = ConsoleColor.White;
+Console.WriteLine("Chuva de Sexta - Kamaitachi");
+Console.ResetColor();
+Console.WriteLine();
+
+Console.ForegroundColor = ConsoleColor.DarkCyan;
+Console.WriteLine("Sonhei que vi");
+Console.WriteLine("O céu cinzar e cair");
+Console.WriteLine("Você não estava aqui");
+Console.WriteLine("Estava bem longe de mim");
+Console.WriteLine("A chuva até que caia bem");
+Console.WriteLine("Já que a Lua chegava também");
+Console.WriteLine("Mas a falta vinha");
+Console.WriteLine("E apertava também de lembrança");
+Console.WriteLine("Que trazia um bem");
+Console.WriteLine("Me vejo só, e mais ninguém");
+Console.WriteLine("Nessa chuva de sexta que me faz refém");
+Console.WriteLine("Tô na estação esperando um trem");
+Console.WriteLine("Que me leve pra onde você tá também");
+Console.ResetColor();
+Console.WriteLine();
+
+Console.ForegroundColor = ConsoleColor.DarkRed;
+Console.WriteLine("Aah");
+Console.WriteLine("Meu coração é a casa que tu pode entrar");
+Console.WriteLine("Pode ficar a vontade e deitar no sofá");
+Console.WriteLine("Só não repara na bagunça que ela tá");
+Console.WriteLine("La lá lá lá lá lá lá");
+Console.ResetColor();
+Console.WriteLine();
+
+Console.ForegroundColor = ConsoleColor.DarkBlue;
+Console.WriteLine("Aaah");
+Console.WriteLine("Meu coração é a casa que tu pode entrar");
+Console.WriteLine("Pode ficar a vontade e deitar no sofá");
+Console.WriteLine("Só não repara na bagunça que ela tá");
+Console.WriteLine("La lá lá lá lá lá lá");
+Console.ResetColor();
+Console.WriteLine();
